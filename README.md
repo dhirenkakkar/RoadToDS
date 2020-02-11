@@ -3,7 +3,7 @@
 
 ### About
 
-Made this repository to track my progress in data science and machine learning. Hopefully It'll would a good tool to organise my goals, develop more holistic projects and provide a clear learning roadmap. I'll try to update this regularly :)
+Made this repository to track my progress in data science and machine learning. Hopefully It would be a good tool to organise my goals, develop more holistic projects and provide a clear learning roadmap. I'll try to update it regularly :)
 
 ### Table of content
 
