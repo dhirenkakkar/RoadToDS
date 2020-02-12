@@ -10,9 +10,9 @@ Made this repository to track my progress in data science and machine learning. 
 ### MOOCs & Courses
 | Course | Topics | Instructor/Platform |
 | :------------: | :---: | :-----: |
-| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of learning, Bias-Variance decomposition, Overfitting, Regression, Classification and Clustering (Most of the classic algorithms covered)| Coursera |
-| [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Ensemble methods, Vector norms & LO,L1,L2 regularization, Stochastic gradient descent, Sparse-matrix factorization, MLE & MAP, Dimentionality Reduction (PCA) and Multi-Deminsional Scaling (MDS) | Dr. Mark Schmidt, UBC | 
-| [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Deep learning, Hyperparameter optimization, CNNs & Sequence models | deeplearning.ai |
+| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of learning, Bias-Variance decomposition, Overfitting, Regression, classification and clustering (Most of the classic algorithms were covered here)| Coursera |
+| [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Ensemble methods, Vector norms & L0,L1,L2 Regularization, Stochastic gradient descent, Sparse-matrix factorization, MLE & MAP, Dimentionality reduction (PCA) and Multi-Deminsional scaling (MDS) | Dr. Mark Schmidt, UBC | 
+| [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Deep learning, Hyperparameter optimization, Convolutions, CNN, RNN, LSTM (Sequence models)| deeplearning.ai |
 
 **Audited courses*
 
