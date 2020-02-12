@@ -11,7 +11,7 @@ Made this repository to track my progress in data science and machine learning. 
 | Course | Topics | Instructor/Platform |
 | :------------: | :---: | :-----: |
 | [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of learning and tradeoffs (bias-variance, train-test), Overfitting, Supervised/Unsupervised learning, Ensemble methods, L0/L1/L2 Regularization| Coursera |
-| [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Non-linear regression, Stochastic gradient, Sparse-matrix factorization, Maximum likelihood and Maximum A Posteriori estimation (MLE/MAP), Dimentionality reduction and Multi-Deminsional scaling (PCA/MDS) | Dr. Mark Schmidt, UBC | 
+| [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Non-linear regression, Stochastic gradient, Sparse-matrix factorization, Maximum likelihood and Maximum A Posteriori (MLE/MAP), Dimentionality reduction and Multi-Deminsional scaling (PCA/MDS) | Dr. Mark Schmidt, UBC | 
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Introductory neural networks, , Deep learning, Hyperparameter optimization, Tensorflow, CNN, RNN, LSTM (Sequence model) | deeplearning.ai |
 
 **Audited courses*
