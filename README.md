@@ -7,14 +7,20 @@ Made this repository to track my progress in data science and machine learning. 
 
 ### Table of content
 
-
-### MOOCs 
+### MOOCs & Courses
 | Course | Topics | Platform |
 | :------------: | :---: | :-----: |
-| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of ML, Regression, Classification, Unsupervised learning, Regularization, PCA, MLE & MAP | Coursera |
+| [Machine Learning*](https://www.coursera.org/learn/machine-learning) |Regression, Classification, Regularization, Recommender systems | Coursera |
+| [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Fundamentals of learning, Ensemble methods, Probablistic & linear classifiers, Stochastic gradient descent, Sparse-matrix factorization, Dimentionality reduction and multi deminsional scaling | Dr. Mark Schmidt | 
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Deep learning, Hyperparameter optimization, CNNs & Sequence models | deeplearning.ai |
 
 **Audited courses*
+
+
+### Regression
+| Concept | Topics | Project/Tools |
+| :------------: | :---: | :-----: |
+
 
 ### Bussiness analytics
 
