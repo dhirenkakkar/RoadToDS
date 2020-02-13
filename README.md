@@ -7,7 +7,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 ### Table of content
 
-### MOOCs & Courses
+### MOOCs & Relevant courses
 | Course | Topics | Instructor/Platform |
 | :------------: | :---: | :-----: |
 | [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of learning and tradeoffs (bias-variance, train-test), Overfitting, Supervised/Unsupervised learning, Ensemble methods, L0/L1/L2 Regularization| Coursera |
