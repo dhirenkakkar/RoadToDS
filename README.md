@@ -16,6 +16,14 @@ Made this repository to track my progress in data science and machine learning. 
 
 **Audited courses*
 
+### Regression
+
+| Concept | Topics | Projects/Tools |
+| :------------: | :---: | :-----: |
+| Linear regression | Least squares, Multiple regression, Normal equations, Gradient descent, Convex and Concave function optimization| [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Non-linear regression | Collinearity, Non-linear transformations, Existence and uniqueness of solution, Information criteria, Polynomial & exponential basis |  |
+| Norms & Regularization | Convexity in higher spaces, L0/L1/L2 regularization, Robust regression, Smooth approximation using Huber loss and log-sum-exp | |
+
 
 ### Bussiness analytics
 
@@ -24,3 +32,4 @@ Made this repository to track my progress in data science and machine learning. 
 | [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling | N/A |
 | Visualization dashboards | Data Ink Ratio, Data Storytelling | Tableau, D3.js |
 
+ 
