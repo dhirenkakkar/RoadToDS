@@ -14,7 +14,7 @@ Made this repository to track my progress in data science and machine learning. 
 | [CPSC 340: Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Non-linear regression, Stochastic gradient, Sparse-matrix factorization, Maximum likelihood and Maximum A Posteriori (MLE/MAP), Dimentionality reduction and Multi-Deminsional scaling (PCA/MDS) | Dr. Mark Schmidt, UBC | 
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Introductory neural networks, Deep learning, Hyperparameter optimization, Dropout, Non-linear activation, Tensorflow, CNN, RNN, LSTM (Sequence model) | deeplearning.ai |
 | [STAT 302: Intro to Probability](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=302) | Probability distributions, Bayes belief network, Jointly distributed random variables, Law of large numbers, Chebyshev's inequality & Markov chains | UBC |
-| [MATH 221: Matrix Algebra](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) | Linear independence and transformation, Vector spans, Higher dimension subspaces, Digonalization, Eigenvectors, Orthogonal sets and projections | UBC |
+| [MATH 221: Matrix Algebra](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) | Linear independence and transformation, Vector span, High dimensional subspaces, Digonalization, Eigenvectors, Orthogonal sets and projections | UBC |
 
 **Audited courses*
 
