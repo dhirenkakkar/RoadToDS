@@ -33,6 +33,6 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling | N/A |
-| Visualization dashboards | Visual encodings, Data-Ink ratio, Data Storytelling | Tableau, D3.js |
+| Visualization dashboards | Visual encodings, Data-driven analysis, Data Storytelling | Tableau, D3.js |
 
  
