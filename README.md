@@ -21,7 +21,7 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | Linear regression | Least squares, Multiple regression, Normal equations, Gradient descent, Information criteria, Convex & Concave function optimization| [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
-| Non-linear regression | Logistic regression, Non-linear transformations, Polynomial & exponential basis, Shrinkage & Sparsity, Multicollinearity, Residual analysis|  |
+| Non-linear regression | Logistic regression, Non-linear transformations, Polynomial & exponential basis, Multicollinearity, Shrinkage and Sparsity |  |
 | Norms & Regularization | L0/L1/L2 regularization, Robust regression,  Ridge regression, Smooth approximation using Huber loss and log-sum-exp | |
 
 
