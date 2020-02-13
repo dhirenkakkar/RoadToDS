@@ -24,7 +24,7 @@ Made this repository to track my progress in data science and machine learning. 
 | :------------: | :---: | :-----: |
 | Linear regression | Least squares, Multiple regression, Normal equations, Gradient descent, Information criteria, Normalization and standardization| [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
 | Non-linear regression | Logistic regression, Non-linear transformations, Convex & Concave function optimization, Shrinkage & Sparsity, Segmentation |  |
-| Norms & Regularization | L0/L1/L2 regularization, Robust regression, Ridge & Brittle regression, Smooth approximation using Huber loss and log-sum-exp | UBC |
+| Norms & Regularization | L0/L1/L2 regularization, Robust regression, Ridge & Brittle regression, Smooth approximation using Huber loss and log-sum-exp | |
 
 
 ### Bussiness analytics
