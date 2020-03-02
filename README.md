@@ -18,19 +18,34 @@ Made this repository to track my progress in data science and machine learning. 
 
 **Audited courses*.
 
-### Regression
 
+### Regression
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
-| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information criteria, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
 | Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
 | Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost|
 | Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
 
 
-### Bussiness analytics
+### Classification
+| Concept | Topics | Projects/Tools |
+| :------------: | :---: | :-----: |
+| Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
+| 2 | | |
+| 3 | | |
 
+
+### Unsupervised learning
+| Concept | Topics | Projects/Tools |
+| :------------: | :---: | :-----: |
+| Clustering | K-Means clustering, Random initializations, Vector quantization, Parametric vs non-parametric models, Gaussian mixture model & Expectation Maximization | |
+| Non-convex clustering | Density-based clustering (DBSCAN), Hierarchical Agglomerative Clustering |  |
+| Ensemble clustering |  Label switching problem, Bootstrapping | |
+
+
+### Bussiness analytics
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling | N/A |
