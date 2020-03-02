@@ -40,7 +40,7 @@ Made this repository to track my progress in data science and machine learning. 
 ### Unsupervised learning
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
-| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization, Parametric vs non-parametric models, Gaussian mixture model & Expectation Maximization | |
+| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization, Parametric vs non-parametric models, Gaussian mixture model & Expectation Maximization, Outlier detection | |
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
