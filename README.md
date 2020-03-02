@@ -41,8 +41,8 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | Clustering | K-Means clustering, Random initializations, Vector quantization, Parametric vs non-parametric models, Gaussian mixture model & Expectation Maximization | |
-| Non-convex clustering | Density-based clustering (DBSCAN), Hierarchical Agglomerative Clustering |  |
-| Ensemble clustering |  Label switching problem, Bootstrapping | |
+| Non-convex clustering | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
+| Clustering Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
 
 ### Bussiness analytics
