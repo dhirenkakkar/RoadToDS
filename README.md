@@ -26,7 +26,7 @@ Made this repository to track my progress in data science and machine learning. 
 | Non-linear regression | Logistic regression, Non-linear transformations, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | L1 Lasso & L2 Ridge regression, Robust regression, Non-convex smooth approximation using Huber loss and log-sum-exp,  Frobenius norm | |
 | Ensemble learning | Random Forests, Grid-search, XGBoost, Boosting, Bagging, Cross validation, Decision theory, Entropy, Precision vs Recall and ROC curves | |
-| Gradient Descent | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
+| Gradient Descent optimization| Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
 
 
 ### Bussiness analytics
