@@ -23,8 +23,8 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | Linear regression | Ordinary & Total least squares, Residuals, Multicollinearity, Entropy, Information criteria, Normalization and standardization, ANOVA| [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
-| Non-linear regression | Logistic regression, Non-linear transformations, Shrinkage & Sparsity, Segmentation |  |
-| Norms & Regularization | L1 Lasso & L2 Ridge regression, Robust regression, Non-convex smooth approximation using Huber loss and log-sum-exp,  Frobenius norm | |
+| Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
+| Norms & Regularization | Lasso (L1) & Ridge (L2) regression, Robust regression, Non-convex smooth approximation using Huber loss and log-sum-exp, Frobenius norm, M-estimator| |
 | Ensemble learning | Random Forests, Grid-search, XGBoost, Boosting, Bagging, Cross validation, Decision theory, Precision vs Recall and ROC curves | |
 | Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
 
