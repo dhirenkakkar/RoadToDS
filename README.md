@@ -5,6 +5,8 @@
 
 Made this repository to track my progress in data science and machine learning. Hopefully It'll be a good tool to organise my goals, develop more holistic projects and provide a clear learning roadmap. I'll try to update it regularly :)
 
+*many concepts were directly applied while learning them or while working on personal project. Respective repositories are linked to the concepts
+
 ## Table of content
 
 ### MOOCs & Relevant courses
