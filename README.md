@@ -15,7 +15,7 @@ Made this repository to track my progress in data science and machine learning. 
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Non-linear activation, Hyperparameter optimization, Batch-procedures, Convolutions, CNNs, RNNs & LSTMs (Sequence modelling) | deeplearning.ai |
 | [Intro to Probability](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=302) | Probability distributions, Bayes belief network, Jointly distributed random variables, Law of large numbers, Chebyshev's inequality & Markov chains | STAT302, UBC |
 | [Matrix Algebra](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) | Linear independence and transformation, Vector span, High dimensional subspaces, Digonalization, Eigenvectors, Orthogonal sets and projections | MATH221, UBC |
-| [Statistical learning](https://ubc-stat.github.io/ stat-406/) | Model Accuracy, Information Criteria, Kernel smoothing, Linear/Quadratic discrimant analysis, Bagging, Boosting, Hierarchical clustering, PCA and Manifold learning| [Daniel McDonald](https://dajmcdon.github.io/), STAT406, UBC | |
+| [Statistical learning](https://ubc-stat.github.io/stat-406/) | Model Accuracy, Information Criteria, Kernel smoothing, Linear/Quadratic discrimant analysis, Bagging, Boosting, Hierarchical clustering, PCA and Manifold learning| [Daniel McDonald](https://dajmcdon.github.io/), STAT406, UBC | |
 
 **Audited courses**.
 
