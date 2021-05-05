@@ -51,7 +51,7 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
 | Text pre-processing |  Stemming, Lemmatization, Treebank Tokenization, Regular expressions, Text normalization | NLTK, SpaCy |
-| | Bag Of Words, TF-IDF, n-gram, word2vec | |
+| Word association | Bag Of Words, TF-IDF, n-gram, byte-pair encoding, word2vec embedding | Gensim |
 | | Sentiment Analysis, Topic Modelling | |
 | [Byte pair encoding](https://arxiv.org/abs/1508.07909) | Charecter and Byte level encoding| |
 
