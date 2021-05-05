@@ -52,9 +52,9 @@ Made this repository to track my progress in data science and machine learning. 
 ### Unsupervised learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Text pre-processing |  Stemming, Lemmatization, Treebank Tokenization, Regular expressions, Text normalization | NLTK, SpaCy |
+| Text pre-processing & normalization |  Stemming, Lemmatization, Treebank Tokenization, Regular expressions | NLTK, SpaCy |
 | Word association | Bag Of Words, TF-IDF, n-gram, [Byte pair encoding](https://arxiv.org/abs/1508.07909), Word2vec embedding | Gensim |
-| Language understanding | Sentiment Analysis, Topic Modelling (latent dirichlet allocation), Part of Speech Tagging |  |
+| Language understanding | Sentiment Analysis, Part of Speech Tagging,  Topic Modelling (Latent dirichlet allocation) |  |
 | Neural nets (to do) | Transformers (bidirectional RNNs), encoders, BERT | |
 
 
