@@ -49,7 +49,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 
-### Unsupervised learning
+### Natural language processing
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Text pre-processing & normalization |  Stemming, Lemmatization, Treebank Tokenization, Regular expressions | NLTK, SpaCy |
