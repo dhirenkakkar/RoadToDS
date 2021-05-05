@@ -46,10 +46,21 @@ Made this repository to track my progress in data science and machine learning. 
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
 
-### Bussiness analytics
+
+### Unsupervised learning
 | Concept | Topics | Projects/Tools |
 | :------------: | :---: | :-----: |
-| [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling | N/A |
-| Visualization dashboards | Visual encodings, Data-driven analysis, Data Storytelling | Tableau, D3.js |
+| Text pre-processing |  Stemming, Lemmatization, Tokenization, Regular expressions (Treebank tokenizer), Bag Of Words, TF-IDF, n-gram, word2vec | NLTK, SpaCy |
+| Sentiment Analysis |    | |
+| Topic Modelling |   | |
+| [Byte pair encoding](https://arxiv.org/abs/1508.07909) | Charecter and Byte level encoding| |
+
+
+
+### Visualization and Analytics
+| Concept | Topics | Projects/Tools |
+| :------------: | :---: | :-----: |
+| [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling, Data-driven decision making | N/A |
+| Visualization dashboards | Visual encodings, Data Storytelling | Tableau, PowerBI, D3.js |
 
  
