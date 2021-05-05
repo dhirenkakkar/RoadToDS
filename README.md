@@ -5,7 +5,7 @@
 
 Made this repository to track my progress in data science and machine learning. Hopefully It'll be a good tool to organise my goals, develop more holistic projects and provide a clear learning roadmap. I'll try to update it regularly :)
 
-*many concepts were directly applied while learning them or working on personal project (repos are linked in the tools/library section)
+*many concepts were directly applied while learning them or working on personal project (repo are linked in the tools/library section)
 
 ## Table of content
 
@@ -23,7 +23,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 ### Regression
-| Concept | Topics | Projects/Tools |
+| Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
 | Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
@@ -33,7 +33,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 ### Classification
-| Concept | Topics | Projects/Tools |
+| Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
 | 2 | | |
@@ -41,7 +41,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 ### Unsupervised learning
-| Concept | Topics | Projects/Tools |
+| Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Cluster Analysis | K-Means clustering, Random initializations, Vector quantization,, Gaussian mixture model & Expectation Maximization, Outlier detection | |
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
@@ -50,7 +50,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 ### Unsupervised learning
-| Concept | Topics | Projects/Tools |
+| Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Text pre-processing |  Stemming, Lemmatization, Treebank Tokenization, Regular expressions, Text normalization | NLTK, SpaCy |
 | Word association | Bag Of Words, TF-IDF, n-gram, byte-pair encoding, word2vec embedding | Gensim |
@@ -60,7 +60,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 
 ### Visualization and Analytics
-| Concept | Topics | Projects/Tools |
+| Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling, Data-driven decision making | N/A |
 | Visualization dashboards | Visual encodings, Data Storytelling | Tableau, PowerBI, D3.js |
