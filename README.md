@@ -8,12 +8,12 @@ Made this repository to track my progress in data science and machine learning. 
 *many concepts were directly applied while learning them or working on personal project (repo are linked in the tools/library section)
 
 ## Table of content
-[MOOCs & Relevant courses](https://github.com/dhirenkakkar/RoadToDS#moocs--relevant-courses) <br>
-[Regression](https://github.com/dhirenkakkar/RoadToDS#regression) <br>
-[Classification](https://github.com/dhirenkakkar/RoadToDS#classification) <br>
-[Unsupervised learning](https://github.com/dhirenkakkar/RoadToDS#unsupervised-learning) <br>
-[Natural language processing](https://github.com/dhirenkakkar/RoadToDS#natural-language-processing) <br>
-[Visualization and Analytics](https://github.com/dhirenkakkar/RoadToDS#visualization-and-analytics) <br>
+* [MOOCs & Relevant courses](https://github.com/dhirenkakkar/RoadToDS#moocs--relevant-courses) <br>
+* [Regression](https://github.com/dhirenkakkar/RoadToDS#regression) <br>
+* [Classification](https://github.com/dhirenkakkar/RoadToDS#classification) <br>
+* [Unsupervised learning](https://github.com/dhirenkakkar/RoadToDS#unsupervised-learning) <br>
+* [Natural language processing](https://github.com/dhirenkakkar/RoadToDS#natural-language-processing) <br>
+* [Visualization and Analytics](https://github.com/dhirenkakkar/RoadToDS#visualization-and-analytics) <br>
 
 
 ### MOOCs & Relevant courses
