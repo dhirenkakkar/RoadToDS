@@ -62,7 +62,7 @@ Made this repository to track my progress in data science and machine learning. 
 ### Visualization and Analytics
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling, Data-driven decision making | N/A |
+| [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive & Inferential statistics, Predictive modelling | N/A |
 | Visualization dashboards | Visual encodings, Data Storytelling | Tableau, PowerBI, D3.js |
 
  
