@@ -20,9 +20,11 @@ Made this repository to track my progress in data science and machine learning. 
 ### MOOCs & Relevant courses
 | Course | Topics | Instructor/Platform |
 | :------------: | :---: | :-----: |
-| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Fundamentals of learning and tradeoffs, Linear & Logistic regression, L0/L1/L2 Regularization, Support vector machines (SVM), Anomaly detection | Coursera |
-| [Machine Learning*](https://www.coursera.org/learn/machine-learning) |  (bias-variance, train-test), Overfitting, Supervised/Unsupervised learning, Ensemble methods, L0/L1/L2 Regularization| Coursera |
+| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | 
+Linear & Logistic regression, L0/L1/L2 Regularization, Support vector machines (SVM), Anomaly detection | Coursera |
+
 | [Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Stochastic gradient descent, Sparse-matrix factorization, Maximum likelihood and Maximum A Posteriori, Latent-factor models, Dimentionality reduction and Multi-Deminsional scaling (PCA/MDS) | [Dr. Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/), CPSC340, UBC | 
+
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Non-linear activation, Hyperparameter optimization, Batch-procedures, Convolutions, CNNs, RNNs & LSTMs (Sequence modelling) | deeplearning.ai |
 | [Intro to Probability](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=302) | Probability distributions, Bayes belief network, Jointly distributed random variables, Law of large numbers, Chebyshev's inequality & Markov chains | STAT302, UBC |
 | [Matrix Algebra](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) | Linear independence and transformation, Vector span, High dimensional subspaces, Digonalization, Eigenvectors, Orthogonal sets and projections | MATH221, UBC |
