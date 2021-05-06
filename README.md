@@ -15,6 +15,7 @@ Made this repository to track my progress in data science and machine learning. 
 * [Natural language processing](https://github.com/dhirenkakkar/RoadToDS#natural-language-processing) <br>
 * [Visualization and Analytics](https://github.com/dhirenkakkar/RoadToDS#visualization-and-analytics) <br>
 
+---
 
 ### MOOCs & Relevant courses
 | Course | Topics | Instructor/Platform |
