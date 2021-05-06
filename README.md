@@ -52,7 +52,7 @@ Made this repository to track my progress in data science and machine learning. 
 ### Natural language processing
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Text pre-processing |  Stemming, Lemmatization, Tokenization, Regular expressions (Treebank tokenizer), Text normalization | NLTK, SpaCy |
+| Text pre-processing |  Text normalization, Stemming, Lemmatization, Tokenization, Regular expressions (Treebank tokenizer) | NLTK, SpaCy |
 | Word associations | Bag Of Words, TF-IDF, n-gram, [Byte pair encoding](https://arxiv.org/abs/1508.07909), Word2vec | |
 | Language understanding | Sentiment analysis, Part of Speech Tagging (PoS),  Topic modelling (Latent dirichlet allocation) | Gensim |
 | Deep learning modelling | Transformers (bidirectional RNNs), encoders, BERT | |
