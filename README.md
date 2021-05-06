@@ -9,7 +9,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 ## Table of content
 * [MOOCs & Relevant courses](https://github.com/dhirenkakkar/RoadToDS#moocs--relevant-courses) <br>
-* [Regression](https://github.com/dhirenkakkar/RoadToDS#regression) <br>
+* [Supervised learning](https://github.com/dhirenkakkar/RoadToDS#supervised-learning) <br>
 * [Classification](https://github.com/dhirenkakkar/RoadToDS#classification) <br>
 * [Unsupervised learning](https://github.com/dhirenkakkar/RoadToDS#unsupervised-learning) <br>
 * [Natural language processing](https://github.com/dhirenkakkar/RoadToDS#natural-language-processing) <br>
@@ -30,7 +30,16 @@ Made this repository to track my progress in data science and machine learning. 
 
 **Audited courses**.
 
-<br>
+<br> 
+
+### Supervised learning
+| Concept | Topics | Tools/Library |
+| :------------: | :---: | :-----: |
+| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
+| Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
+| Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost|
+| Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
 
 ### Regression
 | Concept | Topics | Tools/Library |
