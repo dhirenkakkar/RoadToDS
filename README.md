@@ -20,7 +20,7 @@ Made this repository to track my progress in data science and machine learning. 
 ### MOOCs & Relevant courses
 | Course | Topics | Instructor/Platform |
 | :------------: | :---: | :-----: |
-| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Linear & Logistic regression, L0/L1/L2 Regularization, Support vector machines (SVM), Anomaly detection | Coursera |
+| [Machine Learning*](https://www.coursera.org/learn/machine-learning) | Linear & Logistic regression, L0/L1/L2 Regularization, Support vector machines (SVM), Anomaly detection, Recommender systems | Coursera |
 | [Machine learning](https://www.cs.ubc.ca/~schmidtm/Courses/340-F19/) | Probablistic & linear classifiers, Stochastic gradient descent, Sparse-matrix factorization, Maximum likelihood and Maximum A Posteriori, Latent-factor models, Dimentionality reduction and Multi-Deminsional scaling (PCA/MDS) | [Dr. Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/), CPSC340, UBC | 
 | [Deep Learning*](https://www.coursera.org/specializations/deep-learning) | Neural networks, Non-linear activation, Hyperparameter optimization, Batch-procedures, Convolutions, CNNs, RNNs & LSTMs (Sequence modelling) | deeplearning.ai |
 | [Intro to Probability](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=302) | Probability distributions, Bayes belief network, Jointly distributed random variables, Law of large numbers, Chebyshev's inequality & Markov chains | STAT302, UBC |
