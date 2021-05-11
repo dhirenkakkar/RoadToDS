@@ -32,7 +32,6 @@ Made this repository to track my progress in data science and machine learning. 
 **Audited courses**.
 
 ***
-<br> 
 
 ### Supervised learning
 
@@ -45,7 +44,7 @@ Made this repository to track my progress in data science and machine learning. 
 | Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost|
 | Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
 
-<br>
+***
 
   #### Classification
 | Concept | Topics | Tools/Library |
@@ -54,7 +53,6 @@ Made this repository to track my progress in data science and machine learning. 
 | 2 | | |
 | 3 | | |
 
-<br>
 ***
 
 ### Unsupervised learning
@@ -64,7 +62,6 @@ Made this repository to track my progress in data science and machine learning. 
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
-<br>
 ***
 
 ### Natural language processing
@@ -75,7 +72,6 @@ Made this repository to track my progress in data science and machine learning. 
 | Language understanding | Sentiment analysis, Topic modelling (Latent dirichlet allocation), Part of Speech (PoS) Tagging | Gensim |
 | Deep learning modelling | Transformers (bidirectional RNNs), encoders, BERT | |
 
-<br>
 ***
 
 ### Visualization and Analytics
