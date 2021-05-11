@@ -39,9 +39,10 @@ Made this repository to track my progress in data science and machine learning. 
 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Data fundamnentals | Data cleaning, One-hot encoding, Feature transformation, Distances (Euclidean, Jaccard), Similarities (Rank correlation), Entropy  | |
-| Visualization | Data storytelling, 2d plots (scatter, box, hist, dist, Pearson correlation matrix) |  |
-| Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
+| Data fundamnentals | Data cleaning, One-hot encoding, Feature transformation, Distances (Hamming, Jaccard), Similarities (Rank correlation) | |
+| Fundamentals of learning | Overfitting & Underfitting, IID learning theory, Training vs testing error tradeoff, Bias-variance tradeoff, K-fold Cross validation, Optimization bias | |
+| Visualization | Exploratory data analysis, Data storytelling, Basic 2d plots, Pearson correlation matrix |  |
+
 
 
   #### Regression
@@ -57,8 +58,8 @@ Made this repository to track my progress in data science and machine learning. 
   #### Classification
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
+| Fundamentals | Decision stump and trees, Greedy recursive splitting, Accuracy score, Entropy and information gain.  | |
 | Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
-| 2 | | |
 | 3 | | |
 
 ***
