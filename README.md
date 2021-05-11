@@ -31,8 +31,8 @@ Made this repository to track my progress in data science and machine learning. 
 
 **Audited courses**.
 
-<br> 
 ***
+<br> 
 
 ### Supervised learning
 
