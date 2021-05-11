@@ -39,7 +39,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Data fundamnentals| Data cleaning, One-hot encoding, Feature transformation, Distances (Euclidean, Jaccard coefficient), Similarities (Rank correlation), Entropy  | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Data fundamnentals | Data cleaning, One-hot encoding, Feature transformation, Distances (Euclidean, Jaccard), Similarities (Rank correlation), Entropy  | |
 | Visualization | Data storytelling, 2d plots (scatter, box, hist, dist, Pearson correlation matrix) |  |
 | Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
 
