@@ -39,7 +39,7 @@ Made this repository to track my progress in data science and machine learning. 
 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Data fundamnentals | Data cleaning, Dummy variables (one-hot encoding), Feature selection & transformation, Distances (Hamming, Jaccard) and Similarities (Rank correlation) | |
+| Data fundamnentals | Data cleaning, Dummy variables, Feature selection and transformation, Distances (Hamming, Jaccard) and Similarities (Rank correlation) | |
 | Fundamentals of learning | Overfitting and Underfitting, IID learning theory, Training vs testing error, Bias-variance tradeoff, K-fold Cross validation, Optimization bias | |
 | Visualization | Exploratory data analysis, Data storytelling, Basic 2d plots, Pearson correlation matrix |  |
 
