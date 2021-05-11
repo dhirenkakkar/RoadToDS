@@ -58,7 +58,7 @@ Made this repository to track my progress in data science and machine learning. 
   #### Classification
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Fundamentals | Decision stump and trees, Greedy recursive splitting, Accuracy score, Entropy and information gain.  | |
+| Fundamentals | Decision stump and trees, Greedy recursive splitting, Accuracy score, Entropy and information gain, Precision vs recall  | |
 | Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
 | 3 | | |
 
