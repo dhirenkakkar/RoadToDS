@@ -41,7 +41,7 @@ Made this repository to track my progress in data science and machine learning. 
 | :------------: | :---: | :-----: |
 | Data fundamnentals | Data cleaning, Dummy variables, Feature selection and transformation, Distances (Hamming, Jaccard) and Similarities (Rank correlation) | |
 | Fundamentals of learning | Overfitting and Underfitting, IID learning theory, Training vs testing error, Bias-variance tradeoff, K-fold Cross validation, Optimization bias | |
-| Visualization | Exploratory data analysis, Data storytelling, Basic 2d and time-series plots, Pearson correlation matrix, Browser/BI dashboards  | D3, Matplotlib, Seaborn, Plotly |
+| Ensemble methods | Averaging, Boosting, Bootstrapping, Bagging and Stacking | ||
 
 
 
@@ -87,6 +87,6 @@ Made this repository to track my progress in data science and machine learning. 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | [Predictive & Non-Predictive Analytics](https://www.forbes.com/sites/piyankajain/2012/05/01/the-power-of-non-predictive-analytics/#5cb247587909) | Descriptive/Inferential statistics, Hypothesis (A/B) testing, Predictive modelling | N/A |
-| Visualization dashboards | Visual encodings, Data Storytelling | Tableau, PowerBI, D3.js |
+| Visualization | Data storytelling, Basic 2d and time-series plots, Pearson correlation matrix, Visual encodings, Browser/BI dashboards | D3, Matplotlib, Seaborn, Plotly |
 
  
