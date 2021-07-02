@@ -68,7 +68,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Cluster Analysis | K-Means clustering, Random initializations, Vector quantization,, Gaussian mixture model & Expectation Maximization, Outlier detection | |
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
-| Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search | |
+| Gradient Descent optimization | Batch & Stochastic gradient descent, Polyak’s heavy ball method (Momentum), RMSprop, Adam optimizer and Line search | |
 
 ***
 
