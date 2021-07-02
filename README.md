@@ -39,7 +39,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Data fundamnentals | Data cleaning, Dummy encoding, Feature selection and transformation, Distances (Loss functions) and Similarities (Rank correlation) | Pandas, NumPy |
+| Data fundamnentals | Data cleaning, Dummy encoding, Feature selection and transformation, Distances, Loss functions and Similarities | Pandas, NumPy |
 | Fundamentals of learning | Overfitting and Underfitting, IID learning theory, Training vs testing error, Bias-variance tradeoff, K-fold Cross validation, Optimization bias | |
 | Ensemble methods | Averaging, Boosting, Bootstrapping, Bagging and Stacking | ||
 
