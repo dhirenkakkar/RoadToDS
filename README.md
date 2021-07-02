@@ -51,8 +51,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
 | Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
-| Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost|
-| Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search. | |
+| Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost ||
 
 
   #### Classification
@@ -61,6 +60,15 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Fundamentals | Decision stump and trees, Greedy recursive splitting, Accuracy score, Entropy and information gain, Precision vs recall  | |
 | Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
 | 3 | | |
+
+***
+
+### Deep learning
+| Concept | Topics | Tools/Library |
+| :------------: | :---: | :-----: |
+| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization,, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
+| Gradient Descent optimization | Mini-batch gradient descent, Stochastic gradient descent, Polyak’s heavy ball method, Nesterov’s accelerated gradient descent and Line search | |
 
 ***
 
