@@ -66,16 +66,17 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 ### Deep learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization,, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization, Gaussian mixture model & Expectation Maximization, Outlier detection | |
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
-| Gradient Descent optimization | Batch & Stochastic gradient descent, Polyak’s heavy ball method (Momentum), RMSprop, Adam, Learning rate decay and Line search | |
+| Gradient Descent optimization | Vanishing gradients, Batch & Stochastic gradient descent, Momentum, RMSprop, Adam, Learning rate decay and Line search | |
+| Hyperparameter tuning | Grid search, Random search, | |
 
 ***
 
 ### Unsupervised learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization,, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization, Gaussian mixture model & Expectation Maximization, Outlier detection | |
 | Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
