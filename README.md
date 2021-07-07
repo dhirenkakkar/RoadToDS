@@ -27,7 +27,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | [Intro to Probability](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=302) | Probability distributions, Bayes belief network, Jointly distributed random variables, Law of large numbers, Chebyshev's inequality | STAT302, UBC |
 | [Matrix Algebra](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=221) | Matrices & Determinants, Linear independence & transformation, Vector-span, High dimensional subspaces, Digonalization, Eigenvalues & Eigenvectors, Orthogonal sets & projections | MATH221, UBC |
 | [Statistical learning](https://ubc-stat.github.io/stat-406/) | Model Accuracy, Information criteria, Kernel smoothing, Linear/Quadratic discrimant analysis, Bagging, Boosting, Bootstrapping & Ensemble learning, Hierarchical clustering| [Daniel McDonald](https://dajmcdon.github.io/), STAT406, UBC |
-| [Statistical inference](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=305) | Moment generating functions, Maximum likelihood estimation, Fisher information, Bayesian estimation & credible intervals, Hypothesis testing | STAT305, UBC | |
+| [Statistical inference](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=305) | Moment generating functions, Samping distribution theory, Maximum likelihood estimation, Fisher information, Bayesian estimation,  confidence/credible intervals, Likelihood ratio testing | STAT305, UBC | |
 
 *Audited courses
 
