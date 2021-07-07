@@ -66,9 +66,10 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 ### Deep learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Cluster Analysis | K-Means clustering, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Neural networks | Forward & Backpropagation, Batch gradient descent, Learning rate, Random initialization, Sigmoid/ReLU activation function | |
+| Deep learning basics |  | Tensorflow, PyTorch |
 | Classification | Multi-class classification (Softmax) | |
-| Gradient Descent optimization | Vanishing gradients, Batch & Stochastic gradient descent, Momentum, RMSprop, Adam, Learning-rate decay, Line search | |
+| Gradient Descent optimization | Vanishing gradients, Stochastic (mini-batch) gradient descent, Momentum, RMSprop, Adam, Learning-rate decay, Line search | |
 | Hyperparameter tuning | Grid search, Random search, Batch normalization | |
 
 ***
