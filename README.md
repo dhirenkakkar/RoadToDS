@@ -67,7 +67,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Cluster Analysis | K-Means clustering, Gaussian mixture model & Expectation Maximization, Outlier detection | |
-| Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
+| Classification | Multi-class classification (Softmax) | |
 | Gradient Descent optimization | Vanishing gradients, Batch & Stochastic gradient descent, Momentum, RMSprop, Adam, Learning rate decay, Batch norm | |
 | Hyperparameter tuning | Grid search, Random search, | |
 
