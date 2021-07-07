@@ -72,6 +72,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Classification | Multi-class classification (Softmax) | |
 | Gradient Descent optimization | Vanishing gradients, Stochastic (mini-batch) gradient descent, Momentum, RMSprop, Adam, Learning-rate decay, Line search | |
 | Hyperparameter tuning | Grid search, Random search, Batch normalization | |
+| Convolutional neural networks | Convolutions, Fully-connected/Convolutional/Pooling layer: | |
 
 ***
 
