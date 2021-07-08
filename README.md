@@ -49,7 +49,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
   #### Regression
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | [House prices - Advanced regression techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |
+| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | |
 | Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
 | Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost ||
@@ -81,7 +81,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model & Expectation Maximization, Outlier detection | |
-| Non-convex clusters | Density-based clustering, ELbow method, Hierarchical Clustering | |
+| Non-convex clusters | Density-based clustering, Elbow method, Hierarchical Clustering | |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering | |
 
 ***
