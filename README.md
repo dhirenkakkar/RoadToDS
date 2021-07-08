@@ -41,7 +41,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Fundamnentals | Data cleaning, Visualization, Data aggregation, Feature selection, Feature transformation, Distances and Similarities | Pandas, NumPy |
-| Fundamentals of learning | Overfitting/Underfitting, IID learning theory, Training vs testing error, Bias-variance decomposition, Cross validation, Optimization bias | ||
+| Fundamentals of learning | Overfitting/Underfitting, IID learning theory, Training vs testing error, Bias-variance decomposition, Cross validation, Optimization bias | |
+| Ensemble learning | Random Forests, Pruning, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost |||
 
 
 
@@ -52,7 +53,6 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Linear regression | Ordinary least squares, Residuals, Bias (intercept), Multiple regression, Multicollinearity, Gradient descent, Convexity | |
 | Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity |  |
 | Norms & Regularization | Lasso, Ridge & ElastricNet regularization, Robust/Brittle regression, Huber loss & log-sum-exp approximation | |
-| Ensemble learning | Random Forests, Pruning, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost ||
 
 
   #### Classification
