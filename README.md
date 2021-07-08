@@ -80,8 +80,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 ### Unsupervised learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Cluster Analysis | K-Means clustering, Random initializations, Vector quantization, Gaussian mixture model & Expectation Maximization, Outlier detection | |
-| Non-convex | Density-based clustering (DBSCAN), Hierarchical (Agglomerative/Divisive) Clustering | BIRCH |
+| Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Non-convex clusters | Density-based clustering (DBSCAN), ELbow method, Hierarchical Clustering | |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
 
 ***
