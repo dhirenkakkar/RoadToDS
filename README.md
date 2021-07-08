@@ -53,7 +53,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Linear regression | Ordinary least squares, Residuals, Bias (intercept), Multiple regression, Multicollinearity, Gradient descent, Convexity | |
 | Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity |  |
 | Norms & Regularization | Lasso, Ridge & ElastricNet regularization, Robust/Brittle regression, Huber loss & log-sum-exp approximation | |
-| Ensemble learning | Random Forests, Hyperparameter optimization (grid/random), Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost ||
+| Ensemble learning | Random Forests, Pruning, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost ||
 
 
   #### Classification
