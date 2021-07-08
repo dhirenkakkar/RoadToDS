@@ -81,8 +81,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model & Expectation Maximization, Outlier detection | |
-| Non-convex clusters | Density-based clustering (DBSCAN), ELbow method, Hierarchical Clustering | |
-| Ensemble |  Label switching problem, Bootstrapping, Biclustering, Grid-based Clustering  | |
+| Non-convex clusters | Density-based clustering, ELbow method, Hierarchical Clustering | |
+| Ensemble |  Label switching problem, Bootstrapping, Biclustering | |
 
 ***
 
