@@ -40,7 +40,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Data fundamnentals | Data cleaning, Visualization, Data aggregation, Feature selection and transformation, Distances and Similarities | Pandas, NumPy |
+| Fundamnentals | Data cleaning, Visualization, Data aggregation, Feature selection, Feature transformation, Distances and Similarities | Pandas, NumPy |
 | Fundamentals of learning | Overfitting/Underfitting, IID learning theory, Training vs testing error, Bias-variance decomposition, Cross validation, Optimization bias | |
 | Ensemble methods | Averaging, Boosting, Bootstrapping, Bagging and Stacking | ||
 
@@ -58,8 +58,9 @@ Made this repository to track my progress as I learn data science. Hopefully It'
   #### Classification
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Fundamentals | Decision stump and trees, Greedy recursive splitting, Accuracy score, Entropy and information gain, Precision vs recall  | |
-| Probabilistic  classification | Naive Bayes (w/ MLE & MAP), Laplace Smoothing | |
+| Fundamentals | Accuracy score, Entropy, Information gain, Decision theory, Precision vs recall, PR/ROC curve, F-score  | |
+| Parametric classifiers | Naive Bayes (w/ MLE & MAP), Laplace Smoothing, Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA) | |
+| Non-parametric classifiers | K-nearest neighbours, Lazy learning,  | |
 | 3 | | |
 
 ***
