@@ -60,7 +60,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Fundamentals | Accuracy score, Hinge-loss, Entropy, Information gain, Decision theory, Precision vs recall ( F-score), PR/ROC curve  | |
 | Probablistic classifiers | Naive Bayes, Laplace Smoothing, Multi-class classification| |
-| Distance based classifiers | Decision stump & trees, Pruning, Greedy recursive splitting, Discriminant analysis (LDA,QDA), K-nearest neighbours, Support vector machines | |
+| Distance based classifiers | Decision stump & trees, Pruning, Greedy recursive splitting, Discriminant analysis (LDA,QDA), K-nearest neighbours, SVM | |
 | 3 | | |
 
 ***
