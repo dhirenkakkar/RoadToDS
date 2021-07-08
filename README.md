@@ -51,7 +51,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Evaluation | Squared error (MSE,RMSE), Information crteria (AIC,BIC), Adjusted R-squared error, Mallow's Cp |
 | Linear regression | Ordinary least squares, Residuals, Bias (intercept), Multiple regression, Multicollinearity, Gradient descent, Convexity | |
-| Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
+| Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity |  |
 | Norms & Regularization | Lasso, Ridge & ElastricNet regularization, Robust/Brittle regression, Huber loss & log-sum-exp approximation | |
 | Ensemble learning | Random Forests, Hyperparameter optimization (grid/random), Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost ||
 
@@ -81,7 +81,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 ### Unsupervised learning
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model & Expectation Maximization, Outlier detection | |
+| Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model, Outlier detection | |
 | Non-convex clusters | Density-based clustering, Elbow method, Hierarchical Clustering | |
 | Ensemble |  Label switching problem, Bootstrapping, Biclustering | |
 
