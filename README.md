@@ -49,8 +49,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
   #### Regression
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Linear regression | Ordinary, Sparse & Total least squares, Residuals, Multicollinearity, Entropy & Information gain, Normalization and standardization | |
-| Non-linear regression | Logistic/Sigmoidal regression, Non-linear transformations & polynomial regression, Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
+| Linear regression | Ordinary least squares, Residuals, Bias feature, Multiple regression, Multicollinearity, Gradient descent | |
+| Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | Lasso (L1), Ridge (L2) & ElastricNet (L1+L2) regression, Robust regression, Non-convex approximation using Huber loss & log-sum-exp, M-estimator | |
 | Ensemble learning | Random Forests, Hyperparameter Grid-search, Boosting & Bagging, Cross validation, Stacking & Averaging, Precision vs Recall, ROC curves | XGBoost, LightGBM & AdaBoost ||
 
