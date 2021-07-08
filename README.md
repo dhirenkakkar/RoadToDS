@@ -59,8 +59,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
 | Fundamentals | Accuracy score, Entropy, Information gain, Decision theory, Precision vs recall, PR/ROC curve, F-score  | |
-| Parametric classifiers | Naive Bayes, Laplace Smoothing, Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA) | |
-| Non-parametric classifiers | K-nearest neighbours, Lazy learning,  | |
+| Probablistic classifiers | Naive Bayes, Laplace Smoothing| |
+| Distance based classifiers | K-nearest neighbours, Lazy learning, Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA) | |
 | 3 | | |
 
 ***
