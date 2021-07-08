@@ -49,7 +49,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
   #### Regression
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Evaluation | Squared error (MSE,RMSE), Information crteria (AIC,BIC), Adjusted R-squared error  |
+| Evaluation | Squared error (MSE,RMSE), Information crteria (AIC,BIC), Adjusted R-squared error, Mallow's Cp |
 | Linear regression | Ordinary least squares, Residuals, Bias (intercept), Multiple regression, Multicollinearity, Gradient descent, Convexity | |
 | Non-linear regression | Logistic regression, Non-linear feature transformation (change of basis), Guassian RBF, Shrinkage & Sparsity, Segmentation |  |
 | Norms & Regularization | Lasso, Ridge & ElastricNet regularization, Robust/Brittle regression, Huber loss & log-sum-exp approximation | |
