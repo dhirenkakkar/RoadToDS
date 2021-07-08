@@ -59,9 +59,9 @@ Made this repository to track my progress as I learn data science. Hopefully It'
   #### Classification
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
-| Fundamentals | Accuracy score, Entropy, Information gain, Decision theory, Precision vs recall ( F-score), PR/ROC curve, Parametric vs Non-parametric  | |
-| Probablistic classifiers | Naive Bayes, Laplace Smoothing| |
-| Distance based classifiers | Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA), K-nearest neighbours, Lazy learning | |
+| Fundamentals | Accuracy score, Hinge-loss, Entropy, Information gain, Decision theory, Precision vs recall ( F-score), PR/ROC curve  | |
+| Probablistic classifiers | Naive Bayes, Laplace Smoothing, Multi-class classification| |
+| Distance based classifiers | Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA), K-nearest neighbours, Lazy learning. Support vector machines | |
 | 3 | | |
 
 ***
