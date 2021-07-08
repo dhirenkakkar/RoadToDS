@@ -42,7 +42,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Fundamnentals | Data cleaning, Visualization, Data aggregation, Feature selection, Feature transformation, Distances and Similarities | Pandas, NumPy |
 | Fundamentals of learning | Overfitting/Underfitting, IID learning theory, Training vs testing error, Bias-variance decomposition, Cross validation, Optimization bias | |
-| Ensemble learning | Random Forests, Pruning, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost |||
+| Ensemble learning | Random Forests, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost |||
 
 
 
@@ -60,7 +60,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Fundamentals | Accuracy score, Hinge-loss, Entropy, Information gain, Decision theory, Precision vs recall ( F-score), PR/ROC curve  | |
 | Probablistic classifiers | Naive Bayes, Laplace Smoothing, Multi-class classification| |
-| Distance based classifiers | Decision stump and trees, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA), K-nearest neighbours, Lazy learning. Support vector machines | |
+| Distance based classifiers | Decision stump & trees, Pruning, Greedy recursive splitting, Gaussian discriminant analysis (LDA,QDA), K-nearest neighbours, Support vector machines | |
 | 3 | | |
 
 ***
@@ -82,7 +82,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model, Outlier detection | |
 | Non-convex clusters | Density-based clustering, Elbow method, Hierarchical Clustering | |
-| Ensemble |  Label switching problem, Bootstrapping, Biclustering | |
+| Ensemble | Label switching problem, Bootstrapping, Biclustering | |
 
 ***
 
