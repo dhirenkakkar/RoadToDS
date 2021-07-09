@@ -45,7 +45,6 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Ensemble learning | Random Forests, Boosting, Bagging, Bootstrapping, Stacking, Averaging | XGBoost, LightGBM & AdaBoost |||
 
 
-
   #### Regression
 | Concept | Topics | Tools/Library |
 | :------------: | :---: | :-----: |
@@ -73,7 +72,14 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Classification | Multi-class classification (Softmax) | |
 | Gradient Descent optimization | Vanishing gradients, Stochastic (mini-batch) gradient descent, Momentum, RMSprop, Adam, Learning-rate decay, Line search | |
 | Hyperparameter tuning | Grid search, Random search, Batch normalization | |
-| Convolutional neural networks | Convolutions, Padding, Fully-connected/Convolutional/Pooling layer: | |
+| Convolutional neural networks | Convolutions, Padding, Fully-connected/Convolutional/Pooling layer | |
+
+***
+
+### Latent-Factor models
+| Topics | Tools/Library |
+| :---: | :-----: |
+| Dimensionality Reduction (PCA/MDS), Recommender systems (Collaborative Filtering )  | |
 
 ***
 
