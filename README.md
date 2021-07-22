@@ -12,9 +12,9 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 * [Supervised learning](https://github.com/dhirenkakkar/RoadToDS#supervised-learning) <br>
   * [Regression](https://github.com/dhirenkakkar/RoadToDS#Regression) <br>
   * [Classification](https://github.com/dhirenkakkar/RoadToDS#classification) <br>
-* [Deep learning](https://github.com/dhirenkakkar/RoadToDS#deep-learning)
-* [Unsupervised learning](https://github.com/dhirenkakkar/RoadToDS#unsupervised-learning) <br>
+* [Deep learning](https://github.com/dhirenkakkar/RoadToDS#deep-learning) <br>
 * [Natural language processing](https://github.com/dhirenkakkar/RoadToDS#natural-language-processing) <br>
+* [Unsupervised learning](https://github.com/dhirenkakkar/RoadToDS#unsupervised-learning) <br>
 * [Visualization and Analytics](https://github.com/dhirenkakkar/RoadToDS#visualization-and-analytics) <br>
 
 ***
