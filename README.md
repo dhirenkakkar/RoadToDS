@@ -76,6 +76,16 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 
 ***
 
+### Natural language processing
+| Concept | Topics | Tools/Library |
+| :------------: | :---: | :-----: |
+| Text preprocessing | Text normalization, Bag Of Words, Stemming, Lemmatization, Stopwords, Tokenization, Regular expressions | NLTK, SpaCy |
+| Word associations | TF-IDF, n-grams, Cosine similarity, Word embeddings, [Byte pair encoding](https://arxiv.org/abs/1508.07909) | Word2vec |
+| NLP tasks | Sentiment analysis, Topic modelling, Part of Speech Tagging | Gensim-LDA |
+| Deep learning modelling | | |
+
+***
+
 ### Latent-Factor models
 | Topics | Tools/Library |
 | :---: | :-----: |
@@ -89,16 +99,6 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Convex clusters | K-Means clustering, Random initializations, K-Means++, Convexity, Gaussian mixture model, Outlier detection | |
 | Non-convex clusters | Density-based clustering, Elbow method, Hierarchical Clustering | |
 | Ensemble | Label switching problem, Bootstrapping, Biclustering | |
-
-***
-
-### Natural language processing
-| Concept | Topics | Tools/Library |
-| :------------: | :---: | :-----: |
-| Text preprocessing | Text normalization, Bag Of Words, Stemming, Lemmatization, Stopwords, Tokenization, Regular expressions | NLTK, SpaCy |
-| Word associations | TF-IDF, n-grams, Cosine similarity, Word embeddings, [Byte pair encoding](https://arxiv.org/abs/1508.07909) | Word2vec |
-| NLP tasks | Sentiment analysis, Topic modelling, Part of Speech Tagging | Gensim-LDA |
-| Deep learning modelling | | |
 
 ***
 
