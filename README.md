@@ -83,7 +83,7 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Word associations | TF-IDF, bi/tri-grams, Cosine similarity, Word embeddings, [Byte pair encoding](https://arxiv.org/abs/1508.07909), Fuzzy matching algorithms | Word2vec |
 | Distance based models | | |
 | Probablistic models | Hidden markov model & Viterbi algorithm, N-grams,  | |
-| NLP tasks | Sentiment analysis, Topic modelling, Named entity recognition | Gensim-LDA |
+| NLP tasks | Sentiment analysis, Topic modelling (LDA), Part of Speech tagging, Named entity recognition | |
 | Deep learning modelling | | |
 
 ***
