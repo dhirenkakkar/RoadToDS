@@ -82,8 +82,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | Text preprocessing | Text normalization, Bag Of Words, Stemming, Lemmatization, Stopwords, Tokenization, Regular expressions | NLTK, SpaCy |
 | Feature extraction | Positive/Negative frequency, TF-IDF, bi/tri-grams, Cosine similarity, [Byte pair encoding](https://arxiv.org/abs/1508.07909), Edit distance & Fuzzy matching | |
 | Distance based models | | |
-| Probablistic models | Hidden markov model & Viterbi algorithm, N-grams, Word embeddings (Word2Vec) | |
-| NLP tasks | Sentiment analysis, Part of Speech tagging, Topic modelling (LDA), Named entity recognition | |
+| Probablistic models | Hidden markov model & Viterbi algorithm, N-grams, Word embeddings (Word2Vec), Perplexity | |
+| NLP tasks | Sentiment analysis, Part of Speech tagging, Topic modelling (LDA), Named entity recognition, Text readability | |
 | Deep learning modelling | | |
 
 ***
