@@ -97,8 +97,8 @@ Made this repository to track my progress as I learn data science. Hopefully It'
 | :------------: | :---: | :-----: |
 | Text preprocessing | Text normalization, Bag Of Words, Stemming, Lemmatization, Stopwords, Tokenization, Regular expressions | NLTK, SpaCy |
 | Word associations | TF-IDF, n-grams, Cosine similarity, Word embeddings, [Byte pair encoding](https://arxiv.org/abs/1508.07909) | Word2vec |
-| Language understanding | Sentiment analysis, Topic modelling (Latent dirichlet allocation), Part of Speech (PoS) Tagging | Gensim |
-| Deep learning modelling | Transformers (bidirectional RNNs), encoders, BERT | |
+| NLP tasks | Sentiment analysis, Topic modelling, Part of Speech Tagging | Gensim-LDA |
+| Deep learning modelling | | |
 
 ***
 
